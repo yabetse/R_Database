@@ -2,7 +2,7 @@
 Assignment on accessing and manipulating database within *R*. Here is a description of files included in the repo
 
 
-* library_managment.db is an SQLite database. You can open the db using /SQLiteStudio/
+* library_managment.db is an SQLite database. You can open the db using SQLiteStudio
 * library.sql  is used to create some of the tables in the database. These are book, librarian, user, lends_transaction and reserves_transaction tables. The lends_transaction and reserves_transaction tables are relationship tables with foreign key in book, librarian and user tables. 
 ```sql
 CREATE TABLE book (
