@@ -1,4 +1,4 @@
-## R_Database
+## R-Database
 Assignment on accessing and manipulating database within *R*. Here is a description of files included in the repo
 
 
